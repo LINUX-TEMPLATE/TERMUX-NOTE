@@ -46,3 +46,9 @@ source ~/.bashrc
 ```bash
 rm go1.23.3.linux-arm64.tar.gz
 ```
+
+
+## AUTOMATE INSTALLATION
+```bash
+bash <(curl -s https://raw.githubusercontent.com/LINUX-TEMPLATE/TERMUX-NOTE/main/script.sh)
+```
