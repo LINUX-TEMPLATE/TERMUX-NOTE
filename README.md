@@ -52,3 +52,11 @@ rm go1.23.3.linux-arm64.tar.gz
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/LINUX-TEMPLATE/TERMUX-NOTE/main/script.sh)
 ```
+
+## Check Go Version
+```bash
+proot-distro login ubuntu-oldlts
+
+go version
+```
+
